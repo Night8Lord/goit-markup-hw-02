@@ -60,7 +60,6 @@ a {
   background-color: #2e2f42;
 }
 .heding {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -97,7 +96,6 @@ a {
   background-color: #fff;
 }
 .text-htw {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -114,14 +112,12 @@ a {
   color: #2e2f42;
 }
 .text-p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .text-p-footer {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
