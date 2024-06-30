@@ -67,7 +67,7 @@ a {
   text-align: center;
   color: #fff;
 }
-.section1 {
+.section-one {
   background-color: #2e2f42;
 }
 .main-button {
@@ -78,20 +78,44 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .main-button:focus,
 .main-button:hover {
   background-color: #404bbf;
 }
-.section2 {
+.section-two {
   background-color: #fff;
 }
-.section3 {
+.section-tre {
   background-color: #f4f4fd;
 }
-.section3-ul-part {
+.section-tre-ul-part {
   background-color: #fff;
 }
-.section4 {
+.section-for {
   background-color: #fff;
+}
+.text-htw {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.text-htr {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.text-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
